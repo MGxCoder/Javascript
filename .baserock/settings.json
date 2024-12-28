@@ -1,0 +1,8 @@
+{
+  "testingFramework": "jest",
+  "assertionLibrary": "built in jest",
+  "testFileSuffix": "test",
+  "testFolderName": "test",
+  "testFilePathStrategy": "Sibling",
+  "lastUpdated": "2024-12-21T04:33:08.579Z"
+}
