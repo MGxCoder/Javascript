@@ -1,4 +1,6 @@
-let btn = document.querySelector('button');
-let input = document.querySelector('input');
-let ul = document.querySelector('ul');
-
+document.addEventListener('DOMContentLoaded', function () {
+    let btn = document.querySelector('button');
+    btn.addEventListener('click', function () {
+        alert('Button Clicked');
+    });
+});
